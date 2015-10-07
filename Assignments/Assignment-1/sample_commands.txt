@@ -1,0 +1,8 @@
+a)Echo returns what you type after echo command. In this case "hello world" was returned.
+b)This command returned using echo and number of combinations of words using the given prefixes,suffixes and mid sections.
+c)returns current date.
+d)returns user's name;
+e)prints entire calander for the year 2000.
+f)prints the 9th month of the year 1752.(Calander goes from 2nd to 14th in one day)
+g)details about software creator/copyrights.
+h)computed 5+4 and returned 9.
