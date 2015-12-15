@@ -4,6 +4,8 @@
 # except the two header lines?
 # Enter the relevant Unix command(s) used below.
 
+wc -l classlist.csv
+tail -130 classlist.csv
 
 
 
@@ -13,7 +15,10 @@
 # Enter the relevant Unix command(s) used below as well as the number
 # of students in the list.
 
+tail -130 classlist.csv | grep head -n classlist.csv
 
+#do for all n until reaches 130
+#store counters for each name
 
 
 # part (c)
